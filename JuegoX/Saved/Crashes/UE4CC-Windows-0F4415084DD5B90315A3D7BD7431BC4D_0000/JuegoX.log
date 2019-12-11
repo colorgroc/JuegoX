@@ -1,0 +1,1576 @@
+﻿Log file open, 12/10/19 14:28:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: ../../../../../TFG/JuegoX_Fork/JuegoX/JuegoX.uproject
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.497172
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.10-13.28.30:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.10-13.28.30:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.10-13.28.30:246][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.10-13.28.30:252][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.10-13.28.30:252][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.10-13.28.30:253][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.10-13.28.30:253][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.10-13.28.30:253][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.10-13.28.30:253][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.10-13.28.30:253][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.10-13.28.30:253][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.10-13.28.30:253][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.10-13.28.30:253][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.10-13.28.30:253][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.10-13.28.30:253][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:253][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.10-13.28.30:253][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.10-13.28.30:253][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.10-13.28.30:253][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.10-13.28.30:301][  0]LogHAL: Display: Platform has ~ 8 GB [8469774336 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.10-13.28.30:301][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.10-13.28.30:301][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.10-13.28.30:301][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.10-13.28.30:302][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.10-13.28.30:303][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.10-13.28.30:318][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.10-13.28.30:318][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.10-13.28.30:318][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.10-13.28.30:318][  0]LogInit: Computer: ASUS-69
+[2019.12.10-13.28.30:318][  0]LogInit: User: alumno
+[2019.12.10-13.28.30:318][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.10-13.28.30:318][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.10-13.28.30:318][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.10-13.28.30:318][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.10-13.28.30:318][  0]LogMemory: Process Physical Memory: 100.40 MB used, 100.41 MB peak
+[2019.12.10-13.28.30:318][  0]LogMemory: Process Virtual Memory: 88.43 MB used, 88.43 MB peak
+[2019.12.10-13.28.30:318][  0]LogMemory: Physical Memory: 4071.77 MB used,  4005.64 MB free, 8077.41 MB total
+[2019.12.10-13.28.30:318][  0]LogMemory: Virtual Memory: 4670.91 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.12.10-13.28.30:322][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.10-13.28.30:760][  0]LogInit: Using OS detected language (en-US).
+[2019.12.10-13.28.30:760][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.10-13.28.30:761][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.10-13.28.31:676][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.10-13.28.31:676][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.10-13.28.34:892][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.10-13.28.34:892][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.10-13.28.35:885][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.10-13.28.35:885][  0]LogD3D11RHI:       4021/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.10-13.28.35:974][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.12.10-13.28.35:974][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.10-13.28.35:978][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.10-13.28.35:978][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.10-13.28.35:978][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.10-13.28.36:019][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.10-13.28.36:019][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.12.10-13.28.36:019][  0]LogWindows: EnumDisplayDevices:
+[2019.12.10-13.28.36:019][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.12.10-13.28.36:020][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.12.10-13.28.36:020][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.10-13.28.36:020][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.12.10-13.28.36:020][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.10-13.28.36:020][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.12.10-13.28.36:020][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.12.10-13.28.36:020][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.12.10-13.28.36:077][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.10-13.28.36:096][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.12.10-13.28.37:018][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.10-13.28.37:071][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.10-13.28.37:104][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.10-13.28.37:147][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.10-13.28.37:198][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.10-13.28.37:237][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.10-13.28.37:272][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.10-13.28.37:305][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.10-13.28.37:329][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.10-13.28.37:424][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.10-13.28.37:424][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.10-13.28.37:424][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.10-13.28.37:424][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.10-13.28.37:424][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.10-13.28.37:424][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.10-13.28.37:425][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.10-13.28.37:425][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.10-13.28.37:425][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.10-13.28.37:425][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.10-13.28.37:425][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.10-13.28.37:425][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.10-13.28.37:425][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.10-13.28.37:425][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.10-13.28.37:425][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.10-13.28.37:425][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.10-13.28.37:425][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.10-13.28.37:425][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.10-13.28.37:461][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.10-13.28.37:584][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.10-13.28.37:584][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.10-13.28.37:610][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.10-13.28.37:610][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.10-13.28.37:650][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.10-13.28.37:679][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.10-13.28.37:717][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.10-13.28.37:747][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.10-13.28.37:818][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.10-13.28.37:818][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.10-13.28.37:818][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.10-13.28.37:956][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.10-13.28.38:649][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../../TFG/JuegoX_Fork/JuegoX/Intermediate/Shaders/WorkingDirectory/6092/).
+[2019.12.10-13.28.38:649][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alumno/AppData/Local/Temp/UnrealShaderWorkingDir/816AE2B840028028B826368116A84B5C/'.
+[2019.12.10-13.28.38:650][  0]LogXGEController: Cleaning working directory: C:/Users/alumno/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.10-13.28.38:650][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.10-13.28.38:650][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.10-13.28.38:650][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.10-13.28.42:379][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.10-13.28.42:608][  0]LogDerivedDataCache: Loaded boot cache 0.23s 73MB C:/Users/alumno/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.10-13.28.42:608][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alumno/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.10-13.28.42:608][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../TFG/JuegoX_Fork/JuegoX/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.10-13.28.42:608][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.10-13.28.42:608][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../TFG/JuegoX_Fork/JuegoX/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.10-13.28.42:608][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.10-13.28.42:659][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.10-13.28.42:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.10-13.28.42:659][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.10-13.28.42:661][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alumno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.10-13.28.42:661][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.10-13.28.42:661][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.10-13.28.42:684][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.10-13.28.42:687][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.10-13.28.42:721][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.10-13.28.43:155][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2019.12.10-13.28.43:774][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.10-13.28.44:832][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.10-13.28.44:832][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.10-13.28.44:832][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.10-13.28.44:832][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.10-13.28.44:832][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.10-13.28.44:898][  0]LogNetVersion: JuegoX 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 544456702)
+[2019.12.10-13.28.46:926][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.065947 seconds
+[2019.12.10-13.28.46:934][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.10-13.28.46:934][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.10-13.28.46:934][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.10-13.28.58:854][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.10-13.28.58:991][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.10-13.28.59:906][  0]SourceControl: Source control is disabled
+[2019.12.10-13.28.59:906][  0]SourceControl: Source control is disabled
+[2019.12.10-13.28.59:980][  0]SourceControl: Source control is disabled
+[2019.12.10-13.29.00:004][  0]SourceControl: Source control is disabled
+[2019.12.10-13.29.01:765][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.10-13.29.02:866][  0]LogOcInput: OculusInput pre-init called
+[2019.12.10-13.29.02:992][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.10-13.29.02:992][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.10-13.29.03:381][  0]LogEngine: Initializing Engine...
+[2019.12.10-13.29.03:381][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.10-13.29.03:382][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.10-13.29.03:734][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.10-13.29.03:845][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.10-13.29.03:874][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-13.29.04:413][  0]LogInit: FAudioDevice initialized.
+[2019.12.10-13.29.04:414][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.10-13.29.04:509][  0]LogDerivedDataCache: Saved boot cache 0.10s 73MB C:/Users/alumno/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.10-13.29.04:516][  0]LogInit: Texture streaming: Enabled
+[2019.12.10-13.29.04:812][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.10-13.29.04:812][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.10-13.29.04:814][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.10-13.29.05:207][  0]LogInit: Transaction tracking system initialized
+[2019.12.10-13.29.05:829][  0]BlueprintLog: New page: Editor Load
+[2019.12.10-13.29.07:317][  0]LocalizationService: Localization service is disabled
+[2019.12.10-13.29.09:099][  0]LogFileCache: Scanning file cache for directory 'D:/TFG/JuegoX_Fork/JuegoX/Content/' took 0.01s
+[2019.12.10-13.29.09:099][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.10-13.29.09:099][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.10-13.29.13:038][  0]SourceControl: Source control is disabled
+[2019.12.10-13.29.13:039][  0]Cmd: MAP LOAD FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.10-13.29.13:039][  0]LightingResults: New page: Lighting Build
+[2019.12.10-13.29.13:057][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-13.29.13:057][  0]MapCheck: New page: Map Check
+[2019.12.10-13.29.13:057][  0]LightingResults: New page: Lighting Build
+[2019.12.10-13.29.13:086][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.12.10-13.29.13:193][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.10-13.29.13:197][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.10-13.29.13:231][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.12.10-13.29.13:231][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.10-13.29.13:231][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2019.12.10-13.29.13:231][  0]LogFileHelpers: Loading map 'MainMenu' took 0.193
+[2019.12.10-13.29.13:523][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.29.13:531][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.29.13:541][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.29.13:562][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.29.13:616][  0]LogCollectionManager: Loaded 0 collections in 0.001723 seconds
+[2019.12.10-13.29.13:656][  0]LogFileCache: Scanning file cache for directory 'D:/TFG/JuegoX_Fork/JuegoX/Saved/Collections/' took 0.01s
+[2019.12.10-13.29.13:656][  0]LogFileCache: Scanning file cache for directory 'D:/TFG/JuegoX_Fork/JuegoX/Content/Developers/alumno/Collections/' took 0.00s
+[2019.12.10-13.29.13:656][  0]LogFileCache: Scanning file cache for directory 'D:/TFG/JuegoX_Fork/JuegoX/Content/Collections/' took 0.00s
+[2019.12.10-13.29.13:656][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.10-13.29.13:668][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2863 classes and 680 folders.
+[2019.12.10-13.29.13:755][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.10-13.29.15:761][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.10-13.29.15:810][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.10-13.29.15:960][  0]LogSlate: Took 0.035967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.10-13.29.16:011][  0]LogSlate: Took 0.049469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.10-13.29.16:047][  0]LogSlate: Took 0.029167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.10-13.29.16:221][  0]LogRenderer: Reallocating scene render targets to support 1116x528 Format 10 NumSamples 1 (Frame:1).
+[2019.12.10-13.29.16:574][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.10-13.29.16:574][  0]LogLoad: (Engine Initialization) Total time: 62.71 seconds
+[2019.12.10-13.29.16:574][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.10-13.29.16:641][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.10-13.29.16:960][  0]LogSlate: Took 0.054491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.10-13.29.21:501][249]LogAssetRegistry: Asset discovery search completed in 38.3472 seconds
+[2019.12.10-13.29.21:513][249]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2019.12.10-13.29.21:513][249]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2019.12.10-13.30.16:860][ 77]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B152623B-4A8C-5EAE-B5D5-C99171D60F75}
+[2019.12.10-13.34.45:479][  8]LogRenderer: Reallocating scene render targets to support 1116x548 Format 10 NumSamples 1 (Frame:3206).
+[2019.12.10-13.34.47:589][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-13.34.47:726][112]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.10-13.34.50:223][112]LogStaticMesh: Building static mesh Papelera...
+[2019.12.10-13.34.50:319][112]LogStaticMesh: Built static mesh [0.10s] /Game/3D_Models/HabitaciónSera/Papelera.Papelera
+[2019.12.10-13.34.51:138][112]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-13.34.51:413][112]LogAssetEditorManager: Opening Asset editor for World /Game/JuegoX/Levels/Tutorial.Tutorial
+[2019.12.10-13.34.51:503][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.12.10-13.34.51:515][112]Cmd: MAP LOAD FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.10-13.34.51:515][112]LightingResults: New page: Lighting Build
+[2019.12.10-13.34.51:515][112]LoadErrors: New page: Loading map: Tutorial.umap
+[2019.12.10-13.34.51:516][112]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-13.34.51:516][112]MapCheck: New page: Map Check
+[2019.12.10-13.34.51:516][112]LightingResults: New page: Lighting Build
+[2019.12.10-13.34.51:554][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.12.10-13.34.51:813][112]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.10-13.34.51:859][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.12.10-13.34.51:916][112]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.10-13.34.51:916][112]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2019.12.10-13.34.51:916][112]LogFileHelpers: Loading map 'Tutorial' took 0.412
+[2019.12.10-13.34.58:625][433]LogEditorViewport: Clicking on Actor (LMB): Avion_C (Avion)
+[2019.12.10-13.34.59:905][475]Cmd: DELETE
+[2019.12.10-13.34.59:905][475]Cmd: ACTOR DELETE
+[2019.12.10-13.35.00:337][475]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-13.35.00:447][475]LogEditorActor: Deleted Actor: Avion_C
+[2019.12.10-13.35.00:487][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.12.10-13.35.00:488][475]LogEditorActor: Deleted 1 Actors (0.321 secs)
+[2019.12.10-13.35.06:738][829]LogEditorViewport: Clicking on Actor (LMB): Sillon_C (Sillon2)
+[2019.12.10-13.35.07:849][882]LogSlate: Took 0.012518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.10-13.35.08:406][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-13.35.31:638][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-13.35.40:496][668]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JuegoX/Blueprints/Objects/DiarioAbierto.DiarioAbierto
+[2019.12.10-13.35.41:133][668]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.12.10-13.35.42:438][668]LogSlate: Took 0.014549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.10-13.35.47:604][877]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.10-13.36.17:261][924]BlueprintLog: New page: Compile DiarioAbierto
+[2019.12.10-13.36.17:831][924]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.12.10-13.36.22:089][ 84]BlueprintLog: New page: Compile DiarioAbierto
+[2019.12.10-13.36.22:308][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.12.10-13.36.36:697][632]LogEditorTransaction: Undo Move Nodes
+[2019.12.10-13.36.37:281][646]LogEditorTransaction: Undo Move Node
+[2019.12.10-13.36.37:666][661]LogEditorTransaction: Undo Delete current selection
+[2019.12.10-13.36.38:022][675]LogEditorTransaction: Undo Delete current selection
+[2019.12.10-13.36.38:616][699]LogEditorTransaction: Undo Delete current selection
+[2019.12.10-13.36.43:092][869]BlueprintLog: New page: Compile DiarioAbierto
+[2019.12.10-13.36.43:311][869]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.12.10-13.36.43:908][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/DiarioAbierto" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset" SILENT=true
+[2019.12.10-13.36.44:465][886]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioAbierto4CE323CD4122BEC9C2CA4BA90899A483.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset'
+[2019.12.10-13.36.50:158][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/DiarioAbierto" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset" SILENT=true
+[2019.12.10-13.36.50:198][ 92]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioAbierto40A7050A4CD126431A6DA6BE14CC15E6.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset'
+[2019.12.10-13.47.05:733][471]BlueprintLog: New page: Compile DiarioAbierto
+[2019.12.10-13.47.05:961][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.12.10-13.47.06:498][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/DiarioAbierto" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset" SILENT=true
+[2019.12.10-13.47.06:548][487]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioAbiertoADE1A7A640E1B8274956FF884A18EC79.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset'
+[2019.12.10-13.47.40:957][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-13.47.41:476][761]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterB79A14594063E2C32EA8B0AFC60D73D5.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-13.48.30:062][845]BlueprintLog: New page: Compile DiarioAbierto
+[2019.12.10-13.48.30:294][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.12.10-13.48.30:759][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/DiarioAbierto" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset" SILENT=true
+[2019.12.10-13.48.30:806][859]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioAbiertoC3AC16CA4298D5608DCC2FBC88A877A6.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset'
+[2019.12.10-13.49.09:528][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.12.10-13.49.09:816][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Levels/Tutorial" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Autosaves/Game/JuegoX/Levels/Tutorial_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.10-13.49.10:330][551]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Tutorial_Auto1FFEBC217452E8465F13212B4DADD6847.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Autosaves/Game/JuegoX/Levels/Tutorial_Auto1.umap'
+[2019.12.10-13.49.10:386][551]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JuegoX/Levels/Tutorial' took 0.905
+[2019.12.10-13.49.10:386][551]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.905
+[2019.12.10-13.49.10:388][551]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/JuegoX/Blueprints/Objects/DiarioAbierto] ([1] browsable assets)...
+[2019.12.10-13.49.10:388][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoX/Blueprints/Objects/DiarioAbierto]
+[2019.12.10-13.49.10:424][551]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioAbierto_Auto1965F8E274C62A2F1CA327BBFF031BE53.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Autosaves/Game/JuegoX/Blueprints/Objects/DiarioAbierto_Auto1.uasset'
+[2019.12.10-13.49.10:425][551]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.12.10-13.49.42:579][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/DiarioAbierto" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset" SILENT=true
+[2019.12.10-13.49.42:624][816]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioAbiertoB0174A3F4B2C5F1F374B7E92793E2D18.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset'
+[2019.12.10-13.49.58:301][412]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JuegoX/Blueprints/Objects/Diario.Diario
+[2019.12.10-14.00.45:729][949]LogEditorTransaction: Undo Delete current selection
+[2019.12.10-14.00.46:699][976]LogEditorTransaction: Undo Delete current selection
+[2019.12.10-14.01.50:043][652]BlueprintLog: New page: Compile Diario
+[2019.12.10-14.01.50:613][652]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.12.10-14.01.51:031][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Diario" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset" SILENT=true
+[2019.12.10-14.01.51:109][665]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioAF1688CC434184DC54A3448AF005A3A9.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset'
+[2019.12.10-14.02.15:689][707]BlueprintLog: New page: Compile DiarioAbierto
+[2019.12.10-14.02.15:951][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.12.10-14.02.16:449][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/DiarioAbierto" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset" SILENT=true
+[2019.12.10-14.02.16:509][719]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioAbierto77C2A7AA443BB437CBF913A3C85C7205.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset'
+[2019.12.10-14.02.19:786][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Diario" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset" SILENT=true
+[2019.12.10-14.02.19:836][851]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Diario687A939E43EC83F25A6E31970B397D11.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset'
+[2019.12.10-14.02.20:842][893]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.02.20:936][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.02.20:958][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.02.20:990][893]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:02:20 PM)
+[2019.12.10-14.02.21:076][893]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.10-14.02.21:103][893]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.02.21:171][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068565s)
+[2019.12.10-14.02.21:182][893]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.02.21:195][893]LogPlayLevel: PIE: World Init took: (0.024024s)
+[2019.12.10-14.02.21:208][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.105929s)
+[2019.12.10-14.02.21:249][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.12.10-14.02.21:357][893]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.02.21:435][893]LogInit: FAudioDevice initialized.
+[2019.12.10-14.02.21:542][893]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.02.21:653][893]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.02.21
+[2019.12.10-14.02.21:695][893]LogWorld: Bringing up level for play took: 0.060853
+[2019.12.10-14.02.21:704][893]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.12.10-14.02.21:899][893]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.10-14.02.22:043][893]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial 1.979
+[2019.12.10-14.02.22:043][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.02.24:703][981]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.02.24:708][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.02.30:181][218]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.02.30:182][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.02.30:481][231]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.02.30:481][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.02.36:598][509]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneCorridor
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.02.36:599][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.02.44:572][849]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1960.000 Y=790.000 Z=-190.000] for [DiarioAbierto_C]
+[2019.12.10-14.02.50:649][126]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.02.50:666][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.02.50:667][126]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.02.50:717][126]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.02.50:858][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.02.50:859][126]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.02.50:970][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.02.51:050][126]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2019.12.10-14.02.51:105][126]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-14.02.51:217][127]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.12.10-14.02.53:093][200]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.02.53:106][200]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.02.55:221][296]LogEditorViewport: Clicking on Actor (LMB): Diario_C (Diario)
+[2019.12.10-14.03.00:069][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.03.37:108][ 48]BlueprintLog: New page: Compile Diario
+[2019.12.10-14.03.37:525][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.10-14.03.38:047][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Diario" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset" SILENT=true
+[2019.12.10-14.03.38:113][ 63]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioBC6371EE4D7F1AB9AB0A979F21CC38A7.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset'
+[2019.12.10-14.03.40:484][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Levels/Tutorial" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-14.03.40:529][158]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.12.10-14.03.41:141][158]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Tutorial6C015D69466EBF1B941F9DB48E53E90C.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Tutorial.umap'
+[2019.12.10-14.03.42:992][221]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.03.43:051][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.03.43:052][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.03.43:052][221]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:03:43 PM)
+[2019.12.10-14.03.43:052][221]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.03.43:093][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040974s)
+[2019.12.10-14.03.43:094][221]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.03.43:095][221]LogPlayLevel: PIE: World Init took: (0.001472s)
+[2019.12.10-14.03.43:095][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.042705s)
+[2019.12.10-14.03.43:149][221]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.12.10-14.03.43:162][221]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.03.43:246][221]LogInit: FAudioDevice initialized.
+[2019.12.10-14.03.43:251][221]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.03.43:259][221]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.03.43
+[2019.12.10-14.03.43:260][221]LogWorld: Bringing up level for play took: 0.007945
+[2019.12.10-14.03.43:260][221]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.12.10-14.03.43:263][221]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial 1.199
+[2019.12.10-14.03.43:263][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.03.45:724][326]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.03.45:725][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.03.51:085][566]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.03.51:085][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.03.51:419][581]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.03.51:419][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.03.57:590][860]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneCorridor
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.03.57:590][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.04.09:906][415]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1960.000 Y=790.000 Z=-190.000] for [DiarioAbierto_C]
+[2019.12.10-14.04.16:935][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-14.04.38:867][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.04.38:869][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.04.38:869][682]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.04.38:873][682]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.04.38:906][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.04.38:906][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.04.38:981][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.04.38:991][682]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2019.12.10-14.04.39:013][682]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-14.04.39:098][683]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.12.10-14.04.45:956][927]BlueprintLog: New page: Compile Diario
+[2019.12.10-14.04.46:310][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.12.10-14.05.02:098][572]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.05.02:109][572]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.05.04:935][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.05.06:207][744]BlueprintLog: New page: Compile Diario
+[2019.12.10-14.05.06:529][744]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2019.12.10-14.05.07:010][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Diario" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset" SILENT=true
+[2019.12.10-14.05.07:069][760]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Diario1A67C19749BFEA4F0274809EB5F3246B.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset'
+[2019.12.10-14.05.08:594][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.05.08:689][827]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.05.08:738][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.05.08:738][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.05.08:738][827]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:05:08 PM)
+[2019.12.10-14.05.08:739][827]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.05.08:778][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039686s)
+[2019.12.10-14.05.08:779][827]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.05.08:779][827]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2019.12.10-14.05.08:779][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.041463s)
+[2019.12.10-14.05.08:831][827]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.12.10-14.05.08:843][827]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.05.08:934][827]LogInit: FAudioDevice initialized.
+[2019.12.10-14.05.08:940][827]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.05.08:949][827]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.05.08
+[2019.12.10-14.05.08:950][827]LogWorld: Bringing up level for play took: 0.009002
+[2019.12.10-14.05.08:950][827]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.10-14.05.08:952][827]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial 0.889
+[2019.12.10-14.05.08:954][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.05.11:511][929]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.05.11:512][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.05.17:037][166]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.05.17:037][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.05.17:334][179]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.05.17:335][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.05.23:640][454]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneCorridor
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.05.23:641][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.05.42:424][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.05.42:426][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.05.42:426][267]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.05.42:428][267]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.05.42:447][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.05.42:448][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.05.42:505][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.05.42:514][267]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.12.10-14.05.42:530][267]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-14.05.42:604][268]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.10-14.05.44:381][331]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.05.44:398][331]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.05.46:253][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.06.04:887][135]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.DiarioAbierto_2.Mesh' 
+[2019.12.10-14.06.04:888][135]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.DiarioAbierto_2.Mesh' 
+[2019.12.10-14.06.04:888][135]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.DiarioAbierto_2.Mesh' 
+[2019.12.10-14.06.21:968][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.06.22:123][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Levels/Tutorial" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-14.06.22:186][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.10-14.06.22:756][827]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/TutorialCABC00554931ECF60E4217BE35541D56.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Tutorial.umap'
+[2019.12.10-14.06.24:924][901]LogRenderer: Reallocating scene render targets to support 1144x668 Format 10 NumSamples 1 (Frame:1).
+[2019.12.10-14.06.37:308][372]LogEditorViewport: Clicking on Actor (LMB): DiarioAbierto_C (DiarioAbierto)
+[2019.12.10-14.06.37:836][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesa_Box2)
+[2019.12.10-14.06.38:546][411]LogEditorViewport: Clicking on Actor (LMB): DiarioAbierto_C (DiarioAbierto)
+[2019.12.10-14.06.40:931][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.07.04:656][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.07.23:184][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.07.46:249][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.08.14:849][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.08.37:494][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.08.39:644][887]LogEditorTransaction: Undo Modify Component Location
+[2019.12.10-14.08.56:753][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.08.56:822][479]BlueprintLog: New page: Compile DiarioAbierto
+[2019.12.10-14.08.57:192][479]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2019.12.10-14.08.57:776][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/DiarioAbierto" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset" SILENT=true
+[2019.12.10-14.08.57:929][495]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioAbiertoCA6D55D849C347B9F0F73DBA77DF8F1F.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset'
+[2019.12.10-14.08.59:821][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.09.01:025][603]BlueprintLog: New page: Compile Diario
+[2019.12.10-14.09.01:361][603]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.12.10-14.09.01:919][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Diario" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset" SILENT=true
+[2019.12.10-14.09.01:994][620]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioFA9717484F31685C3D286898F629E256.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset'
+[2019.12.10-14.09.05:479][755]LogEditorViewport: Clicking on Actor (LMB): Diario_C (Diario)
+[2019.12.10-14.09.06:745][806]LogEditorViewport: Clicking on Actor (LMB): DiarioAbierto_C (DiarioAbierto)
+[2019.12.10-14.09.07:503][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mesa_Box2)
+[2019.12.10-14.09.07:866][848]LogEditorViewport: Clicking on Actor (LMB): Diario_C (Diario)
+[2019.12.10-14.09.09:282][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.09.09:393][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Diario" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset" SILENT=true
+[2019.12.10-14.09.09:441][906]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioE88C36E14D98498343B58E8EDC46927B.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset'
+[2019.12.10-14.09.11:448][985]LogEditorViewport: Clicking on Actor (LMB): DiarioAbierto_C (DiarioAbierto)
+[2019.12.10-14.09.12:316][ 19]Cmd: DELETE
+[2019.12.10-14.09.12:317][ 19]Cmd: ACTOR DELETE
+[2019.12.10-14.09.12:388][ 19]LogEditorActor: Deleted Actor: DiarioAbierto_C
+[2019.12.10-14.09.12:438][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.12.10-14.09.12:439][ 19]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.12.10-14.09.13:993][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.09.14:141][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Levels/Tutorial" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-14.09.14:195][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.12.10-14.09.14:753][ 86]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Tutorial3C54ACE54A6A29DC7BD1B5A1C819BA4B.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Tutorial.umap'
+[2019.12.10-14.09.30:288][736]BlueprintLog: New page: Compile Diario
+[2019.12.10-14.09.30:643][736]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2019.12.10-14.09.31:119][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Diario" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset" SILENT=true
+[2019.12.10-14.09.31:177][753]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioA18AAF4B40148FB93E08BC83E74831A1.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset'
+[2019.12.10-14.09.32:841][822]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.09.32:885][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.09.32:885][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.09.32:885][822]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:09:32 PM)
+[2019.12.10-14.09.32:886][822]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.09.32:931][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045820s)
+[2019.12.10-14.09.32:932][822]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.09.32:933][822]LogPlayLevel: PIE: World Init took: (0.001757s)
+[2019.12.10-14.09.32:933][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.047861s)
+[2019.12.10-14.09.32:992][822]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.12.10-14.09.33:003][822]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.09.33:091][822]LogInit: FAudioDevice initialized.
+[2019.12.10-14.09.33:099][822]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.09.33:108][822]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.09.33
+[2019.12.10-14.09.33:109][822]LogWorld: Bringing up level for play took: 0.009233
+[2019.12.10-14.09.33:109][822]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.12.10-14.09.33:112][822]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial 1.048
+[2019.12.10-14.09.33:113][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.09.35:313][912]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.09.35:313][912]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.09.40:149][116]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.09.40:150][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.09.40:514][131]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.09.40:515][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.09.46:669][400]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneCorridor
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.09.46:669][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.10.00:759][  4]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.10.00:761][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.10.00:762][  4]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.10.00:764][  4]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.10.00:791][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.10.00:792][  4]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.10.00:848][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.10.00:855][  4]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.12.10-14.10.00:871][  4]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-14.10.00:952][  5]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.12.10-14.10.19:774][700]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.10.19:786][700]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.10.20:539][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.10.20:672][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Levels/Tutorial" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-14.10.20:722][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.12.10-14.10.21:348][734]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Tutorial125F5E334A4A8FA02E38FEAEB9D802E7.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Tutorial.umap'
+[2019.12.10-14.10.28:825][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/DiarioAbierto" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset" SILENT=true
+[2019.12.10-14.10.28:874][ 50]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/DiarioAbiertoB74558764E73959A12FCBD8919A5B64E.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/DiarioAbierto.uasset'
+[2019.12.10-14.10.29:877][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.10.29:929][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.10.29:929][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.10.29:929][ 90]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:10:29 PM)
+[2019.12.10-14.10.29:930][ 90]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.10.29:973][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042726s)
+[2019.12.10-14.10.29:974][ 90]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.10.29:974][ 90]LogPlayLevel: PIE: World Init took: (0.001501s)
+[2019.12.10-14.10.29:974][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.044496s)
+[2019.12.10-14.10.30:027][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2019.12.10-14.10.30:039][ 90]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.10.30:123][ 90]LogInit: FAudioDevice initialized.
+[2019.12.10-14.10.30:135][ 90]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.10.30:143][ 90]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.10.30
+[2019.12.10-14.10.30:144][ 90]LogWorld: Bringing up level for play took: 0.008059
+[2019.12.10-14.10.30:144][ 90]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.10-14.10.30:146][ 90]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial 0.083
+[2019.12.10-14.10.30:147][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.10.32:548][182]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.10.32:548][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.10.39:392][468]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.10.39:393][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.10.39:593][476]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneCorridor
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.10.39:593][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.10.39:660][479]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.10.39:661][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.10.45:942][744]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneCorridor
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.10.45:942][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.10.52:519][ 23]LogBlueprintUserMessages: [DiarioAbierto_C_0] opened diary
+[2019.12.10-14.10.53:471][ 64]LogBlueprintUserMessages: [DiarioAbierto_C_0] opened diary
+[2019.12.10-14.10.53:800][ 78]LogBlueprintUserMessages: [DiarioAbierto_C_0] opened diary
+[2019.12.10-14.10.55:731][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.10.55:734][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.10.55:734][161]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.10.55:737][161]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.10.55:762][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.10.55:762][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.10.55:817][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.10.55:824][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.12.10-14.10.55:840][161]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-14.10.55:902][162]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.10-14.11.10:327][692]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.11.10:345][692]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.11.13:058][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.11.47:924][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.11.48:097][152]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterE20E4A224DE39B7AF3801E84597D7A0F.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.12.07:037][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.12.07:203][859]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterDF68C18347D0936983CA1D929283AED9.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.13.56:675][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.13.56:755][875]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.13.56:809][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.13.56:809][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.13.56:809][875]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:13:56 PM)
+[2019.12.10-14.13.56:809][875]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.13.56:841][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032213s)
+[2019.12.10-14.13.56:842][875]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.13.57:136][875]LogPlayLevel: PIE: World Init took: (0.294071s)
+[2019.12.10-14.13.57:136][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.326573s)
+[2019.12.10-14.13.57:186][875]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.12.10-14.13.57:197][875]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.13.57:274][875]LogInit: FAudioDevice initialized.
+[2019.12.10-14.13.57:283][875]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.13.57:292][875]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.13.57
+[2019.12.10-14.13.57:293][875]LogWorld: Bringing up level for play took: 0.008685
+[2019.12.10-14.13.57:299][875]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.12.10-14.13.57:302][875]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial 1.238
+[2019.12.10-14.13.57:302][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.14.01:007][ 13]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.14.01:007][ 13]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.14.06:947][248]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneTutorialRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.14.06:948][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.14.07:226][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.14.13:583][512]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneCorridor
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.14.13:583][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.14.21:632][832]LogScript: Warning: Attempted to access Diario_2 via property Diario, but Diario_2 is pending kill
+	Sillon_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Sillon2_11
+	Function /Game/JuegoX/Blueprints/Objects/Sillon.Sillon_C:ExecuteUbergraph_Sillon:0385
+[2019.12.10-14.14.21:633][832]PIE: Error: Blueprint Runtime Error: "Attempted to access Diario_2 via property Diario, but Diario_2 is pending kill". Blueprint:  Sillon Function:  Execute Ubergraph Sillon Graph:  EventGraph Node:  Set interactionActivated
+[2019.12.10-14.14.21:633][832]LogScript: Warning: Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue
+	Sillon_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Sillon2_11
+	Function /Game/JuegoX/Blueprints/Objects/Sillon.Sillon_C:ExecuteUbergraph_Sillon:03B0
+[2019.12.10-14.14.21:633][832]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue". Blueprint:  Sillon Function:  Execute Ubergraph Sillon Graph:  EventGraph Node:  Set interactionActivated
+[2019.12.10-14.14.21:634][832]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneSeraRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.14.21:635][832]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.14.27:722][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-14.15.08:112][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.15.08:117][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.15.08:117][677]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.15.08:118][677]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.15.08:143][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.15.08:143][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.15.08:192][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.15.08:200][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.12.10-14.15.08:216][677]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-14.15.08:281][678]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.12.10-14.15.18:105][ 38]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JuegoX/Blueprints/Objects/Sillon.Sillon
+[2019.12.10-14.16.23:887][601]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.16.23:903][601]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.16.25:802][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.16.26:056][682]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JuegoX/Blueprints/Objects/Interactable.Interactable
+[2019.12.10-14.18.24:372][864]LogEditorTransaction: Undo Edit Static Mesh
+[2019.12.10-14.18.28:640][ 47]BlueprintLog: New page: Compile Diario
+[2019.12.10-14.18.29:028][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2019.12.10-14.18.54:716][196]BlueprintLog: New page: Compile Diario
+[2019.12.10-14.18.55:188][196]LogUObjectHash: Compacting FUObjectHashTables data took  10.82ms
+[2019.12.10-14.18.55:679][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Diario" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset" SILENT=true
+[2019.12.10-14.18.55:747][210]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Diario7432E7744E4DDD554C9661A7A787DE55.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Diario.uasset'
+[2019.12.10-14.19.47:232][371]LogSlate: Took 0.013989 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.10-14.20.34:549][211]BlueprintLog: New page: Compile Sillon
+[2019.12.10-14.20.34:566][211]LogBlueprint: Warning: [Compiler Sillon] Can't parse default value 'None' for  Diario Transfrom . Property: Diario_Transfrom.
+[2019.12.10-14.20.34:935][211]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2019.12.10-14.20.35:487][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Sillon" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset" SILENT=true
+[2019.12.10-14.20.35:570][226]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Sillon2AB7B18C46D3BDF2484B80882B0A9F8E.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset'
+[2019.12.10-14.21.18:180][835]BlueprintLog: New page: Compile Sillon
+[2019.12.10-14.21.18:581][835]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2019.12.10-14.21.19:101][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Sillon" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset" SILENT=true
+[2019.12.10-14.21.19:181][845]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Sillon33715CA54B273717A27A88B7726B46E7.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset'
+[2019.12.10-14.22.35:889][786]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.10-14.22.43:205][ 68]BlueprintLog: New page: Compile Sillon
+[2019.12.10-14.22.43:594][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2019.12.10-14.22.44:095][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Sillon" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset" SILENT=true
+[2019.12.10-14.22.44:173][ 83]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Sillon754A74DA40AD69202C8FCCA8AA966182.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset'
+[2019.12.10-14.23.18:478][364]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2019.12.10-14.23.18:528][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Levels/Tutorial" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Autosaves/Game/JuegoX/Levels/Tutorial_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.10-14.23.19:173][364]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Tutorial_Auto24A41EE524D43BC01C9925FA911A482E2.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Autosaves/Game/JuegoX/Levels/Tutorial_Auto2.umap'
+[2019.12.10-14.23.19:205][364]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JuegoX/Levels/Tutorial' took 0.794
+[2019.12.10-14.23.19:205][364]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.794
+[2019.12.10-14.23.20:173][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Sillon" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset" SILENT=true
+[2019.12.10-14.23.20:252][393]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Sillon531DBADA4582AB5FA3B0EC803AFB64ED.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset'
+[2019.12.10-14.23.22:297][456]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.23.22:356][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.23.22:357][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.23.22:357][456]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:23:22 PM)
+[2019.12.10-14.23.22:357][456]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.23.22:397][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039575s)
+[2019.12.10-14.23.22:398][456]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.23.22:398][456]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2019.12.10-14.23.22:398][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.041049s)
+[2019.12.10-14.23.22:457][456]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2019.12.10-14.23.22:471][456]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.23.22:558][456]LogInit: FAudioDevice initialized.
+[2019.12.10-14.23.22:566][456]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.23.22:573][456]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.23.22
+[2019.12.10-14.23.22:574][456]LogWorld: Bringing up level for play took: 0.008552
+[2019.12.10-14.23.22:574][456]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.12.10-14.23.22:577][456]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial 0.514
+[2019.12.10-14.23.22:577][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.23.25:319][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.23.30:313][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.23.30:447][742]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneCorridor
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.23.30:447][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.23.30:509][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.23.36:814][978]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneCorridor
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.23.36:814][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.23.43:645][233]LogScript: Warning: Attempted to access Diario_2 via property Diario, but Diario_2 is pending kill
+	Sillon_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Sillon2_11
+	Function /Game/JuegoX/Blueprints/Objects/Sillon.Sillon_C:ExecuteUbergraph_Sillon:0072
+[2019.12.10-14.23.43:645][233]PIE: Error: Blueprint Runtime Error: "Attempted to access Diario_2 via property Diario, but Diario_2 is pending kill". Blueprint:  Sillon Function:  Execute Ubergraph Sillon Graph:  EventGraph Node:  Set interactionActivated
+[2019.12.10-14.23.43:645][233]LogScript: Warning: Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue
+	Sillon_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Sillon2_11
+	Function /Game/JuegoX/Blueprints/Objects/Sillon.Sillon_C:ExecuteUbergraph_Sillon:009D
+[2019.12.10-14.23.43:646][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue". Blueprint:  Sillon Function:  Execute Ubergraph Sillon Graph:  EventGraph Node:  Set interactionActivated
+[2019.12.10-14.23.43:648][233]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneSeraRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.23.43:648][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.23.46:235][325]LogCharacterMovement: FirstPersonCharacter is stuck and failed to move! Velocity: X=2.11 Y=-14.77 Z=0.00 Location: X=2029.20 Y=650.11 Z=-229.58 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:0.875 Actor:Mesa_Box2_8 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2019.12.10-14.23.47:682][375]LogCharacterMovement: FirstPersonCharacter is stuck and failed to move! Velocity: X=-16.62 Y=48.47 Z=0.00 Location: X=2029.21 Y=650.11 Z=-229.61 Normal: X=0.99 Y=0.14 Z=-0.02 PenetrationDepth:0.133 Actor:Mesa_Box2_8 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2019.12.10-14.23.50:520][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.23.50:521][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.23.50:521][480]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.23.50:523][480]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.23.50:557][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.23.50:558][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.23.50:623][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.23.50:630][480]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.12.10-14.23.50:648][480]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-14.23.50:759][481]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.12.10-14.24.09:797][124]BlueprintLog: New page: Compile Sillon
+[2019.12.10-14.24.10:219][124]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2019.12.10-14.24.10:922][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Sillon" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset" SILENT=true
+[2019.12.10-14.24.11:003][145]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Sillon7A3513824DD08133D282B79B3AA93631.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset'
+[2019.12.10-14.24.16:227][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.25.14:212][297]BlueprintLog: New page: Compile Sillon
+[2019.12.10-14.25.14:606][297]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2019.12.10-14.25.15:144][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Sillon" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset" SILENT=true
+[2019.12.10-14.25.15:221][311]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Sillon4C7E80824739DE5A082908A52E476D4E.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset'
+[2019.12.10-14.25.20:567][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.25.51:003][536]BlueprintLog: New page: Compile Sillon
+[2019.12.10-14.25.51:394][536]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2019.12.10-14.25.51:976][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Sillon" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset" SILENT=true
+[2019.12.10-14.25.52:057][551]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/SillonDBF3DFB849F25D0AD629F0A7C838F182.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset'
+[2019.12.10-14.25.54:089][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.25.54:209][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Sillon" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset" SILENT=true
+[2019.12.10-14.25.54:276][624]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/SillonACBE1CFC47B65F8151FE418A13BDE6D2.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset'
+[2019.12.10-14.25.55:602][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.25.55:684][674]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.25.55:739][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.25.55:739][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.25.55:739][674]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:25:55 PM)
+[2019.12.10-14.25.55:739][674]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.25.55:776][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036592s)
+[2019.12.10-14.25.55:777][674]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.25.55:777][674]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2019.12.10-14.25.55:777][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.038279s)
+[2019.12.10-14.25.55:839][674]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2019.12.10-14.25.55:850][674]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.25.55:942][674]LogInit: FAudioDevice initialized.
+[2019.12.10-14.25.55:950][674]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.25.55:959][674]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.25.55
+[2019.12.10-14.25.55:959][674]LogWorld: Bringing up level for play took: 0.008621
+[2019.12.10-14.25.55:960][674]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.12.10-14.25.55:962][674]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial -0.102
+[2019.12.10-14.25.55:963][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.25.57:061][711]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.25.57:062][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.25.57:062][711]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.25.57:065][711]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.25.57:107][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.25.57:108][711]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.25.57:176][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.25.57:184][711]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2019.12.10-14.25.57:260][712]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.12.10-14.25.57:805][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.25.57:927][732]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.25.57:938][732]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.25.58:663][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.25.58:739][763]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.25.58:786][763]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.25.58:787][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.25.58:787][763]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:25:58 PM)
+[2019.12.10-14.25.58:787][763]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.25.58:824][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036811s)
+[2019.12.10-14.25.58:825][763]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.25.58:825][763]LogPlayLevel: PIE: World Init took: (0.001373s)
+[2019.12.10-14.25.58:825][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.038386s)
+[2019.12.10-14.25.58:888][763]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.10-14.25.58:899][763]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.25.58:980][763]LogInit: FAudioDevice initialized.
+[2019.12.10-14.25.58:985][763]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.25.58:994][763]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.25.58
+[2019.12.10-14.25.58:995][763]LogWorld: Bringing up level for play took: 0.008370
+[2019.12.10-14.25.58:995][763]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.12.10-14.25.58:998][763]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial 0.933
+[2019.12.10-14.25.58:998][763]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.26.00:930][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.26.06:119][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.26.06:423][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.26.13:116][332]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneCorridor
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.26.13:117][332]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.26.18:446][545]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueZone_C /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.DialogueZoneSeraRoom
+	Function /Game/JuegoX/UI/Dialogue/DialogueZone.DialogueZone_C:ExecuteUbergraph_DialogueZone:0364
+[2019.12.10-14.26.18:446][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.26.20:594][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.26.20:595][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.26.20:595][631]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.26.20:596][631]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.26.20:635][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.26.20:635][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.26.20:699][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.26.20:707][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.12.10-14.26.20:723][631]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-14.26.20:832][632]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.12.10-14.26.22:528][688]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.26.22:541][688]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.26.29:874][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.26.32:599][ 75]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.26.32:614][ 75]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.26.34:466][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.26.34:605][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Sillon" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset" SILENT=true
+[2019.12.10-14.26.34:675][149]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Sillon43889C3B461F77FA1ACC4AB960CE14A0.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset'
+[2019.12.10-14.26.59:224][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-14.27.23:342][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Interactable" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Interactable.uasset" SILENT=true
+[2019.12.10-14.27.23:429][997]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/InteractableDF1036F047769B67A0D9809F44CD9F70.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Interactable.uasset'
+[2019.12.10-14.28.10:761][746]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.28.10:837][746]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Set initialObjRotation  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.12.10-14.28.10:837][746]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Set initialObjPosition  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.12.10-14.28.11:205][746]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2019.12.10-14.28.25:808][268]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.28.26:218][268]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2019.12.10-14.28.26:840][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.28.27:057][282]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterE64C7C5C40A1E7A6B6EAA6B4CCC1217F.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.28.34:351][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.28.34:525][537]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter7F441A7F457A23D122C8A892A7D0E300.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.29.50:190][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Sillon" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset" SILENT=true
+[2019.12.10-14.29.50:250][538]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Sillon8467EBCF433B022BEE068AB4B4268327.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Sillon.uasset'
+[2019.12.10-14.30.28:285][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.30.28:462][977]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterBFE5EDC64E3A2405AFFAC291C4277CE1.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.34.04:041][764]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.34.04:460][764]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2019.12.10-14.34.15:166][147]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JuegoX/UI/Dialogue/Interact_I.Interact_I
+[2019.12.10-14.34.18:756][296]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.34.29:134][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.34.29:295][726]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter03D5F8664702E8313CB18CA5086897C6.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.34.48:080][433]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.34.48:508][433]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2019.12.10-14.35.09:472][161]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.35.09:879][161]LogUObjectHash: Compacting FUObjectHashTables data took   7.33ms
+[2019.12.10-14.35.10:453][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.35.10:606][173]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter67918DE44041C29FE83403B2DA488B2B.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.35.17:800][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.35.17:959][436]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter7DD1ED774EE7BDACA42D34821844B312.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.35.19:941][509]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.35.19:992][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.35.19:992][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.35.19:992][509]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:35:19 PM)
+[2019.12.10-14.35.19:992][509]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.35.20:023][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030100s)
+[2019.12.10-14.35.20:023][509]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.35.20:024][509]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2019.12.10-14.35.20:024][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.031318s)
+[2019.12.10-14.35.20:086][509]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2019.12.10-14.35.20:098][509]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.35.20:172][509]LogInit: FAudioDevice initialized.
+[2019.12.10-14.35.20:214][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.35.20:214][509]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.35.20:223][509]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.35.20
+[2019.12.10-14.35.20:226][509]LogWorld: Bringing up level for play took: 0.010890
+[2019.12.10-14.35.20:227][509]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.12.10-14.35.20:228][509]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.10-14.35.20:237][509]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial 0.172
+[2019.12.10-14.35.20:237][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.35.20:281][510]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.12.10-14.35.23:237][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueZone Function:  Execute Ubergraph Dialogue Zone Graph:  EventGraph Node:  Remove from Parent
+[2019.12.10-14.35.26:126][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.35.26:127][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.35.26:127][687]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.35.26:165][687]LogSlate: Window 'JuegoX Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.10-14.35.26:173][687]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.35.26:225][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.35.26:225][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.35.26:304][687]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2019.12.10-14.35.26:486][688]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.12.10-14.35.27:880][735]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.35.27:893][735]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.35.35:236][  1]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.35.35:640][  1]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2019.12.10-14.35.36:119][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.35.36:283][ 10]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter707170674DCCC5CC1591478D661AD502.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.35.37:442][ 56]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.35.37:492][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.35.37:492][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.35.37:492][ 56]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:35:37 PM)
+[2019.12.10-14.35.37:492][ 56]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.35.37:524][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031494s)
+[2019.12.10-14.35.37:525][ 56]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.35.37:525][ 56]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2019.12.10-14.35.37:525][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.032601s)
+[2019.12.10-14.35.37:587][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2019.12.10-14.35.37:597][ 56]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.35.37:670][ 56]LogInit: FAudioDevice initialized.
+[2019.12.10-14.35.37:683][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.35.37:683][ 56]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.35.37:696][ 56]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.35.37
+[2019.12.10-14.35.37:697][ 56]LogWorld: Bringing up level for play took: 0.013383
+[2019.12.10-14.35.37:697][ 56]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2019.12.10-14.35.37:699][ 56]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.10-14.35.37:707][ 56]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial -0.357
+[2019.12.10-14.35.37:707][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.36.09:734][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.36.09:734][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.36.09:734][109]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.36.09:777][109]LogSlate: Window 'JuegoX Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.10-14.36.09:785][109]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.36.09:847][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.36.09:847][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.36.09:928][109]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2019.12.10-14.36.10:057][110]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.12.10-14.36.41:789][237]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.36.42:197][237]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2019.12.10-14.36.42:924][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.36.43:090][253]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterAD0D83DD4860685E883CCE99D14B9622.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.36.50:695][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.36.50:868][540]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterAEAD2C13464B4FA67F821DAA2364CBF0.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.36.51:813][573]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.36.51:862][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.36.51:862][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.36.51:862][573]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:36:51 PM)
+[2019.12.10-14.36.51:862][573]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.36.51:896][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033486s)
+[2019.12.10-14.36.51:897][573]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.36.51:897][573]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2019.12.10-14.36.51:897][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.034891s)
+[2019.12.10-14.36.51:960][573]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2019.12.10-14.36.51:970][573]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.36.52:046][573]LogInit: FAudioDevice initialized.
+[2019.12.10-14.36.52:059][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.36.52:059][573]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.36.52:074][573]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.36.52
+[2019.12.10-14.36.52:075][573]LogWorld: Bringing up level for play took: 0.015077
+[2019.12.10-14.36.52:075][573]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2019.12.10-14.36.52:077][573]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.10-14.36.52:087][573]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial 0.022
+[2019.12.10-14.36.52:087][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.37.08:831][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.37.08:832][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.37.08:832][ 98]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.37.08:872][ 98]LogSlate: Window 'JuegoX Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.10-14.37.08:880][ 98]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.37.08:937][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.37.08:937][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.37.09:010][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.12.10-14.37.09:134][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.12.10-14.37.58:652][912]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.37.59:055][912]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2019.12.10-14.37.59:677][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.37.59:829][926]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter2B13545243F2D4E112002386890FE723.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.38.01:048][969]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.38.01:095][969]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.38.01:095][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.38.01:096][969]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:38:01 PM)
+[2019.12.10-14.38.01:096][969]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.38.01:125][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029433s)
+[2019.12.10-14.38.01:126][969]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.38.01:126][969]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2019.12.10-14.38.01:127][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.030547s)
+[2019.12.10-14.38.01:189][969]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2019.12.10-14.38.01:200][969]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.38.01:273][969]LogInit: FAudioDevice initialized.
+[2019.12.10-14.38.01:287][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.38.01:288][969]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.38.01:302][969]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.38.01
+[2019.12.10-14.38.01:305][969]LogWorld: Bringing up level for play took: 0.016650
+[2019.12.10-14.38.01:305][969]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.12.10-14.38.01:307][969]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.10-14.38.01:315][969]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial -0.749
+[2019.12.10-14.38.01:315][969]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.38.11:963][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.38.11:963][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.38.11:964][293]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.38.12:001][293]LogSlate: Window 'JuegoX Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.10-14.38.12:010][293]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.38.12:067][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.38.12:068][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.38.12:148][293]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2019.12.10-14.38.12:266][294]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.12.10-14.38.22:964][711]LogEditorTransaction: Undo Delete current selection
+[2019.12.10-14.38.24:250][748]LogEditorTransaction: Undo Move Node
+[2019.12.10-14.38.24:840][764]LogEditorTransaction: Undo Create Pin Link
+[2019.12.10-14.38.25:366][778]LogEditorTransaction: Undo Delete current selection
+[2019.12.10-14.38.47:646][595]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.38.48:045][595]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2019.12.10-14.38.48:675][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.38.48:855][609]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterC844BDF94A683D71A8C3B1BF6433E9B2.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.39.01:318][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.39.01:494][ 61]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter0234EEDA4BE770CEA0F5C0BEE68ACDD2.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.39.08:826][334]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.39.08:877][334]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.39.08:878][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.39.08:878][334]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:39:08 PM)
+[2019.12.10-14.39.08:878][334]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.39.08:910][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032393s)
+[2019.12.10-14.39.08:911][334]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.39.08:912][334]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2019.12.10-14.39.08:912][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.033788s)
+[2019.12.10-14.39.08:972][334]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2019.12.10-14.39.08:983][334]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.39.09:059][334]LogInit: FAudioDevice initialized.
+[2019.12.10-14.39.09:074][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.39.09:074][334]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.39.09:093][334]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.39.09
+[2019.12.10-14.39.09:094][334]LogWorld: Bringing up level for play took: 0.018938
+[2019.12.10-14.39.09:094][334]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2019.12.10-14.39.09:096][334]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.10-14.39.09:105][334]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial 1.041
+[2019.12.10-14.39.09:106][334]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.39.15:059][507]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.39.15:059][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.39.15:059][507]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.39.15:099][507]LogSlate: Window 'JuegoX Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.10-14.39.15:108][507]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.39.15:163][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.39.15:164][507]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.39.15:248][507]LogUObjectHash: Compacting FUObjectHashTables data took   8.03ms
+[2019.12.10-14.39.15:373][508]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.12.10-14.40.06:038][413]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.40.06:442][413]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2019.12.10-14.40.07:087][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.40.07:252][430]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter38BC29034923CC053F9CB7B33084C589.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.40.08:525][479]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.40.08:569][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.40.08:570][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.40.08:570][479]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:40:08 PM)
+[2019.12.10-14.40.08:570][479]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.40.08:601][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030413s)
+[2019.12.10-14.40.08:602][479]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.40.08:602][479]LogPlayLevel: PIE: World Init took: (0.001535s)
+[2019.12.10-14.40.08:602][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.032198s)
+[2019.12.10-14.40.08:663][479]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2019.12.10-14.40.08:678][479]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.40.08:750][479]LogInit: FAudioDevice initialized.
+[2019.12.10-14.40.08:763][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.40.08:763][479]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.40.08:776][479]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.40.08
+[2019.12.10-14.40.08:777][479]LogWorld: Bringing up level for play took: 0.013504
+[2019.12.10-14.40.08:778][479]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2019.12.10-14.40.08:779][479]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.10-14.40.08:789][479]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial 0.725
+[2019.12.10-14.40.08:790][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.40.38:389][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.40.38:389][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.40.38:390][432]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.40.38:430][432]LogSlate: Window 'JuegoX Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.10-14.40.38:437][432]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.40.38:497][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.40.38:497][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.40.38:575][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.12.10-14.40.38:701][433]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.12.10-14.40.53:615][ 15]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.40.54:024][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2019.12.10-14.41.00:276][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.41.00:441][238]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterA9EB9F554819A56180787AA6DCBEC341.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.41.14:795][771]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.41.15:212][771]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2019.12.10-14.41.15:793][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.41.15:954][783]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter1B03E63F4AD4FC3C1EE1EA883B9E431A.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.41.17:198][824]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.41.17:244][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.41.17:245][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.41.17:245][824]PIE: New page: PIE session: Tutorial (Dec 10, 2019, 4:41:17 PM)
+[2019.12.10-14.41.17:245][824]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.41.17:277][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031595s)
+[2019.12.10-14.41.17:278][824]LogAIModule: Creating AISystem for world Tutorial
+[2019.12.10-14.41.17:278][824]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2019.12.10-14.41.17:278][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Tutorial.Tutorial to /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial (0.032740s)
+[2019.12.10-14.41.17:336][824]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2019.12.10-14.41.17:346][824]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.41.17:423][824]LogInit: FAudioDevice initialized.
+[2019.12.10-14.41.17:436][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.41.17:436][824]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-14.41.17:450][824]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2019.12.10-15.41.17
+[2019.12.10-14.41.17:452][824]LogWorld: Bringing up level for play took: 0.015543
+[2019.12.10-14.41.17:453][824]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2019.12.10-14.41.17:454][824]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.10-14.41.17:463][824]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Tutorial -0.601
+[2019.12.10-14.41.17:463][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.41.24:951][ 42]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.41.24:952][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.41.24:952][ 42]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Tutorial
+[2019.12.10-14.41.24:989][ 42]LogSlate: Window 'JuegoX Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.10-14.41.24:997][ 42]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.41.25:049][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.41.25:049][ 42]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/JuegoX/Levels/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.12.10-14.41.25:128][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.12.10-14.41.25:256][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.12.10-14.41.30:439][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.41.30:595][220]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter4CDC860744E3D2DA68EE08B2C44A64DC.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.41.39:319][541]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-14.41.39:726][541]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2019.12.10-14.41.44:480][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.41.44:639][711]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterE5B1AD054332ECAA91FDC5A178F453A5.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.42.09:529][732]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2019.12.10-14.42.09:529][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Levels/Tutorial" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Autosaves/Game/JuegoX/Levels/Tutorial_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.10-14.42.10:121][732]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Tutorial_Auto3D0A020C7435C7C82BF5CB2AF458A1FA3.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Autosaves/Game/JuegoX/Levels/Tutorial_Auto3.umap'
+[2019.12.10-14.42.10:167][732]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JuegoX/Levels/Tutorial' took 0.700
+[2019.12.10-14.42.10:167][732]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.700
+[2019.12.10-14.42.58:949][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Interactable" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Interactable.uasset" SILENT=true
+[2019.12.10-14.42.58:995][618]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Interactable0C23577F489347CAB2AC4F9B6CF645F4.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Interactable.uasset'
+[2019.12.10-14.43.23:406][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.43.23:565][484]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter87BE3B3C42208DF3455DB59B84720BD4.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.44.45:277][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-14.44.45:434][375]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter3A1F9F8146B84E7B9D8E828E7E310A8E.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-14.47.49:087][279]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/JuegoX/Blueprints/Objects/Objeto_Interaqctuable.Objeto_Interaqctuable
+[2019.12.10-14.50.12:119][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Objeto_Interaqctuable" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Objeto_Interaqctuable.uasset" SILENT=true
+[2019.12.10-14.50.12:130][613]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Objeto_Interaqctuable3D00C0744E66ECFB398A1FBC4C8B650E.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Objeto_Interaqctuable.uasset'
+[2019.12.10-14.50.18:194][859]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JuegoX/Blueprints/Objects/Painting.Painting
+[2019.12.10-14.50.58:633][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Objeto_Interaqctuable" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Objeto_Interaqctuable.uasset" SILENT=true
+[2019.12.10-14.50.58:658][931]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Objeto_Interaqctuable02D74ED7450ED300145AE484662B52BA.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Objeto_Interaqctuable.uasset'
+[2019.12.10-14.51.36:107][676]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.10-14.53.34:941][803]BlueprintLog: New page: Compile Painting
+[2019.12.10-14.53.35:334][803]LogUObjectHash: Compacting FUObjectHashTables data took   7.18ms
+[2019.12.10-14.54.43:680][255]BlueprintLog: New page: Compile Painting
+[2019.12.10-14.54.44:052][255]LogUObjectHash: Compacting FUObjectHashTables data took   9.20ms
+[2019.12.10-14.54.44:595][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Painting" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Painting.uasset" SILENT=true
+[2019.12.10-14.54.44:689][276]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/PaintingD224D7BF4FA28A5EB0EBEFAF19648E40.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Painting.uasset'
+[2019.12.10-14.54.47:938][408]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.12.10-14.54.49:834][408]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.10-14.54.51:408][408]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/JuegoX/Blueprints/Objects/Objeto_Interaqctuable.Objeto_Interaqctuable
+[2019.12.10-14.54.54:554][408]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2019.12.10-14.54.54:621][408]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.12.10-14.54.54:672][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.12.10-14.55.29:101][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.12.10-14.55.29:126][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Levels/Tutorial" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Autosaves/Game/JuegoX/Levels/Tutorial_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.10-14.55.29:755][723]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Tutorial_Auto468ED15034BBF5FC77CB6DA9966A803F8.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Autosaves/Game/JuegoX/Levels/Tutorial_Auto4.umap'
+[2019.12.10-14.55.29:758][723]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JuegoX/Levels/Tutorial' took 0.717
+[2019.12.10-14.55.29:758][723]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.717
+[2019.12.10-15.01.04:908][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-15.02.02:707][928]BlueprintLog: New page: Compile Interactable
+[2019.12.10-15.02.03:456][928]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2019.12.10-15.02.10:682][200]BlueprintLog: New page: Compile Interactable
+[2019.12.10-15.02.11:120][200]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2019.12.10-15.02.11:752][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Interactable" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Interactable.uasset" SILENT=true
+[2019.12.10-15.02.11:887][216]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Interactable2F42CCD344853D641DCECE9C06C3AFC0.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Interactable.uasset'
+[2019.12.10-15.02.42:740][489]BlueprintLog: New page: Compile Interactable
+[2019.12.10-15.02.43:197][489]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2019.12.10-15.02.52:100][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Interactable" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Interactable.uasset" SILENT=true
+[2019.12.10-15.02.52:146][842]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Interactable2FD72EB748599CB3BC36A5AF433C3A54.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Interactable.uasset'
+[2019.12.10-15.03.03:098][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Interactable" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Interactable.uasset" SILENT=true
+[2019.12.10-15.03.03:146][303]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/InteractableED056286439C0A64DDC5C29D5AF4987F.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Interactable.uasset'
+[2019.12.10-15.03.34:291][535]BlueprintLog: New page: Compile Interactable
+[2019.12.10-15.03.34:723][535]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2019.12.10-15.03.35:368][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Blueprints/Objects/Interactable" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Interactable.uasset" SILENT=true
+[2019.12.10-15.03.35:410][552]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Interactable9956EF8E41152C54E34B9597D6231E06.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Blueprints/Objects/Interactable.uasset'
+[2019.12.10-15.04.14:067][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-15.04.14:594][ 67]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter001187F24831496BFD5941B438A62CF0.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-15.04.29:619][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-15.04.29:780][670]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter743E69544C6EB27DE5DB30A1ECED05CD.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-15.04.40:633][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-15.04.40:785][ 84]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter5218EB554E0159339B4622B951EACA93.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-15.04.50:210][427]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-15.04.50:660][427]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2019.12.10-15.04.51:436][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-15.04.51:610][445]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter0B33F96E4901CAE29A763998B097E78B.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-15.04.58:706][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-15.04.58:858][721]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterF3B0BDC347DD5D68658E48A9F985DB52.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-15.05.22:366][552]LogEditorTransaction: Undo Move Nodes
+[2019.12.10-15.05.52:948][602]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-15.05.53:358][602]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.12.10-15.05.53:984][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.10-15.05.54:144][614]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterE6EF850B429A5EFEB1E055978FEB35F7.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-15.06.12:173][300]LogUObjectArray: Warning: Other object in slot
+[2019.12.10-15.06.12:303][300]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.10-15.06.14:406][300]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.104 s
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: 
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: Stack: 
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffcb99a5279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffcb91c7fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffcb91d622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffcb6c96c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffcb5144dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffcb50fe057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffcba19d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffcba38c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffcba1e922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffcba1c5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffcba1b9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffd05074c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffd050626df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.10-15.06.14:406][300]LogOutputDevice: Error: [Callstack] 0x00007ffd05077340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.10-15.06.14:407][300]LogOutputDevice: Error: [Callstack] 0x00007ffd0505edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.10-15.06.14:407][300]LogOutputDevice: Error: [Callstack] 0x00007ffd176bc906 USER32.dll!UnknownFunction []
+[2019.12.10-15.06.14:407][300]LogOutputDevice: Error: [Callstack] 0x00007ffd176bc422 USER32.dll!UnknownFunction []
+[2019.12.10-15.06.14:407][300]LogOutputDevice: Error: [Callstack] 0x00007ffd050788e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.10-15.06.14:407][300]LogOutputDevice: Error: [Callstack] 0x00007ff7db326980 UE4Editor.exe!UnknownFunction []
+[2019.12.10-15.06.14:407][300]LogOutputDevice: Error: [Callstack] 0x00007ff7db33a91c UE4Editor.exe!UnknownFunction []
+[2019.12.10-15.06.14:407][300]LogOutputDevice: Error: [Callstack] 0x00007ff7db33a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.10-15.06.14:407][300]LogOutputDevice: Error: [Callstack] 0x00007ff7db34b92c UE4Editor.exe!UnknownFunction []
+[2019.12.10-15.06.14:407][300]LogOutputDevice: Error: [Callstack] 0x00007ff7db34e60e UE4Editor.exe!UnknownFunction []
+[2019.12.10-15.06.14:407][300]LogOutputDevice: Error: [Callstack] 0x00007ffd17ef7974 KERNEL32.DLL!UnknownFunction []
+[2019.12.10-15.06.14:407][300]LogOutputDevice: Error: [Callstack] 0x00007ffd1a42a271 ntdll.dll!UnknownFunction []
+[2019.12.10-15.06.14:407][300]LogOutputDevice: Error: 
+[2019.12.10-15.06.14:444][300]LogStats:                SubmitErrorReport -  0.000 s
