@@ -1,0 +1,896 @@
+﻿Log file open, 12/16/19 21:49:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JuegoX
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.086773
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.16-20.49.30:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.16-20.49.30:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.16-20.49.30:501][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.16-20.49.30:506][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:506][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.16-20.49.30:506][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.16-20.49.30:506][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:506][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.16-20.49.30:507][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.16-20.49.30:508][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.16-20.49.30:508][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:508][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.16-20.49.30:508][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.16-20.49.30:508][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.16-20.49.30:508][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.16-20.49.30:510][  0]LogHAL: Display: Platform has ~ 8 GB [8469774336 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.16-20.49.30:510][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.16-20.49.30:510][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.16-20.49.30:510][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Scalability.ini]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.16-20.49.30:511][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/TFG/JuegoX_Fork/JuegoX/Saved/Config/Windows/Engine.ini]
+[2019.12.16-20.49.30:511][  0]LogInit: Computer: ASUS-69
+[2019.12.16-20.49.30:511][  0]LogInit: User: alumno
+[2019.12.16-20.49.30:511][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.16-20.49.30:511][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.16-20.49.30:512][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.16-20.49.30:512][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.16-20.49.30:512][  0]LogMemory: Process Physical Memory: 101.48 MB used, 101.48 MB peak
+[2019.12.16-20.49.30:512][  0]LogMemory: Process Virtual Memory: 99.06 MB used, 99.06 MB peak
+[2019.12.16-20.49.30:512][  0]LogMemory: Physical Memory: 7058.30 MB used,  1019.11 MB free, 8077.41 MB total
+[2019.12.16-20.49.30:512][  0]LogMemory: Virtual Memory: 4681.35 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.12.16-20.49.30:514][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.16-20.49.30:559][  0]LogInit: Using OS detected language (en-US).
+[2019.12.16-20.49.30:559][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.16-20.49.30:560][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.16-20.49.30:863][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.16-20.49.30:863][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.16-20.49.31:086][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.16-20.49.31:086][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.16-20.49.31:218][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.16-20.49.31:218][  0]LogD3D11RHI:       4021/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.16-20.49.31:230][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.12.16-20.49.31:230][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.16-20.49.31:243][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.16-20.49.31:243][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.16-20.49.31:243][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.16-20.49.31:280][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.16-20.49.31:280][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.12.16-20.49.31:280][  0]LogWindows: EnumDisplayDevices:
+[2019.12.16-20.49.31:280][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.12.16-20.49.31:280][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.12.16-20.49.31:281][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.16-20.49.31:283][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.12.16-20.49.31:283][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.16-20.49.31:283][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.12.16-20.49.31:283][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.12.16-20.49.31:283][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.12.16-20.49.31:344][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.16-20.49.31:361][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.12.16-20.49.31:778][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.16-20.49.31:786][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.16-20.49.31:806][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.16-20.49.31:817][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.16-20.49.31:827][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.16-20.49.31:835][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.16-20.49.31:843][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.16-20.49.31:851][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.16-20.49.31:856][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.16-20.49.31:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.16-20.49.31:908][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.16-20.49.31:924][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.16-20.49.31:925][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.16-20.49.31:950][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.16-20.49.31:950][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.16-20.49.31:959][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.16-20.49.31:966][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.16-20.49.31:974][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.16-20.49.31:982][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.16-20.49.32:017][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.16-20.49.32:017][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.16-20.49.32:017][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.16-20.49.32:029][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.16-20.49.32:070][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../TFG/JuegoX_Fork/JuegoX/Intermediate/Shaders/WorkingDirectory/15776/).
+[2019.12.16-20.49.32:071][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alumno/AppData/Local/Temp/UnrealShaderWorkingDir/06862C5043D775CB9DAA9D9F9FA060FE/'.
+[2019.12.16-20.49.32:075][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.16-20.49.32:075][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.16-20.49.32:075][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.16-20.49.32:857][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.16-20.49.32:964][  0]LogDerivedDataCache: Loaded boot cache 0.11s 73MB C:/Users/alumno/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.16-20.49.32:964][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alumno/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.16-20.49.32:964][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../TFG/JuegoX_Fork/JuegoX/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.16-20.49.32:964][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.16-20.49.32:964][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../TFG/JuegoX_Fork/JuegoX/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.16-20.49.32:964][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.16-20.49.32:978][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.16-20.49.32:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.16-20.49.32:978][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.16-20.49.32:979][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alumno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.16-20.49.32:979][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.16-20.49.32:979][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.16-20.49.33:007][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.16-20.49.33:010][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.16-20.49.33:014][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.16-20.49.33:087][  0]LogAssetRegistry: FAssetRegistry took 0.0069 seconds to start up
+[2019.12.16-20.49.33:427][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.16-20.49.33:623][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.16-20.49.33:623][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.16-20.49.33:623][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.16-20.49.33:623][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.16-20.49.33:623][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.16-20.49.33:633][  0]LogNetVersion: JuegoX 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 544456702)
+[2019.12.16-20.49.34:342][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.073757 seconds
+[2019.12.16-20.49.34:348][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.16-20.49.34:348][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.16-20.49.34:348][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.16-20.49.35:425][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.16-20.49.35:428][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.16-20.49.35:497][  0]SourceControl: Source control is disabled
+[2019.12.16-20.49.35:497][  0]SourceControl: Source control is disabled
+[2019.12.16-20.49.35:499][  0]SourceControl: Source control is disabled
+[2019.12.16-20.49.35:499][  0]SourceControl: Source control is disabled
+[2019.12.16-20.49.35:612][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.16-20.49.35:857][  0]LogOcInput: OculusInput pre-init called
+[2019.12.16-20.49.35:863][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.16-20.49.35:863][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.16-20.49.35:962][  0]LogEngine: Initializing Engine...
+[2019.12.16-20.49.35:963][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.16-20.49.35:964][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.16-20.49.36:327][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.16-20.49.36:342][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.16-20.49.36:496][  0]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-20.49.36:531][  0]LogInit: FAudioDevice initialized.
+[2019.12.16-20.49.36:531][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.16-20.49.36:637][  0]LogDerivedDataCache: Saved boot cache 0.11s 73MB C:/Users/alumno/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.16-20.49.36:647][  0]LogInit: Texture streaming: Enabled
+[2019.12.16-20.49.36:678][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.16-20.49.36:678][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.16-20.49.36:678][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.16-20.49.36:779][  0]LogInit: Transaction tracking system initialized
+[2019.12.16-20.49.36:819][  0]BlueprintLog: New page: Editor Load
+[2019.12.16-20.49.36:896][  0]LocalizationService: Localization service is disabled
+[2019.12.16-20.49.37:394][  0]LogFileCache: Scanning file cache for directory 'D:/TFG/JuegoX_Fork/JuegoX/Content/' took 0.02s
+[2019.12.16-20.49.37:394][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.16-20.49.37:394][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.16-20.49.37:632][  0]SourceControl: Source control is disabled
+[2019.12.16-20.49.37:633][  0]Cmd: MAP LOAD FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Pruebas.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.16-20.49.37:668][  0]LightingResults: New page: Lighting Build
+[2019.12.16-20.49.37:673][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-20.49.37:673][  0]MapCheck: New page: Map Check
+[2019.12.16-20.49.37:673][  0]LightingResults: New page: Lighting Build
+[2019.12.16-20.49.37:710][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.12.16-20.49.54:694][  0]LogTexture: Display: Building textures: istanbul (AutoDXT, 2048X2048)
+[2019.12.16-20.49.54:695][  0]LogTexture: Display: Building textures: london (AutoDXT, 2048X2048)
+[2019.12.16-20.49.54:695][  0]LogTexture: Display: Building textures: barcelona (AutoDXT, 2048X2048)
+[2019.12.16-20.49.54:695][  0]LogTexture: Display: Building textures: paris (AutoDXT, 2048X2048)
+[2019.12.16-20.49.54:695][  0]LogTexture: Display: Building textures: venice (AutoDXT, 2048X2048)
+[2019.12.16-20.49.54:695][  0]LogTexture: Display: Building textures: rome (AutoDXT, 2048X2048)
+[2019.12.16-20.49.54:695][  0]LogStaticMesh: Building static mesh polaroid...
+[2019.12.16-20.49.54:792][  0]LogStaticMesh: Built static mesh [0.11s] /Game/3D_Models/HabitaciónSera/polaroid.polaroid
+[2019.12.16-20.49.55:726][  0]LogMaterial: Display: Missing cached shader map for material Suelo, compiling. 
+[2019.12.16-20.49.56:731][  0]LogTexture: Display: Building textures: athens (AutoDXT, 2048X2048)
+[2019.12.16-20.49.56:731][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2019.12.16-20.49.56:731][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2019.12.16-20.49.56:731][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.12.16-20.49.56:731][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.12.16-20.49.56:731][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 4
+[2019.12.16-20.49.56:731][  0]LogMaterial: Display: Missing cached shader map for material venice_Mat, compiling. 
+[2019.12.16-20.49.56:768][  0]LogMaterial: Display: Missing cached shader map for material rome_Mat, compiling. 
+[2019.12.16-20.49.56:957][  0]LogMaterial: Display: Missing cached shader map for material paris_Mat, compiling. 
+[2019.12.16-20.49.56:982][  0]LogMaterial: Display: Missing cached shader map for material london_Mat, compiling. 
+[2019.12.16-20.49.57:020][  0]LogMaterial: Display: Missing cached shader map for material istanbul_Mat, compiling. 
+[2019.12.16-20.49.57:057][  0]LogMaterial: Display: Missing cached shader map for material barcelona_Mat, compiling. 
+[2019.12.16-20.49.57:501][  0]LogMaterial: Display: Missing cached shader map for material athens_Mat, compiling. 
+[2019.12.16-20.49.58:375][  0]LogAIModule: Creating AISystem for world Pruebas
+[2019.12.16-20.49.59:656][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.12.16-20.49.59:876][  0]LogUObjectHash: Compacting FUObjectHashTables data took  14.64ms
+[2019.12.16-20.49.59:877][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.16-20.49.59:879][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.46ms to complete.
+[2019.12.16-20.49.59:880][  0]LogFileHelpers: Loading map 'Pruebas' took 22.247
+[2019.12.16-20.50.02:416][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.50.02:537][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.50.02:557][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.50.02:574][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.50.02:882][  0]LogCollectionManager: Loaded 0 collections in 0.027548 seconds
+[2019.12.16-20.50.03:285][  0]LogFileCache: Scanning file cache for directory 'D:/TFG/JuegoX_Fork/JuegoX/Saved/Collections/' took 0.01s
+[2019.12.16-20.50.03:285][  0]LogFileCache: Scanning file cache for directory 'D:/TFG/JuegoX_Fork/JuegoX/Content/Developers/alumno/Collections/' took 0.00s
+[2019.12.16-20.50.03:285][  0]LogFileCache: Scanning file cache for directory 'D:/TFG/JuegoX_Fork/JuegoX/Content/Collections/' took 0.00s
+[2019.12.16-20.50.03:285][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000007 seconds
+[2019.12.16-20.50.03:333][  0]LogContentBrowser: Native class hierarchy populated in 0.0430 seconds. Added 2863 classes and 680 folders.
+[2019.12.16-20.50.03:482][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.12.16-20.50.05:517][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 154
+[2019.12.16-20.50.05:518][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.16-20.50.05:647][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.12.16-20.50.07:502][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 144
+[2019.12.16-20.50.07:502][  0]LogSlate: Took 0.042489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.16-20.50.07:545][  0]LogSlate: Took 0.024207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.16-20.50.07:752][  0]LogSlate: Took 0.064319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.16-20.50.08:746][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 134
+[2019.12.16-20.50.08:746][  0]LogRenderer: Reallocating scene render targets to support 1116x528 Format 10 NumSamples 1 (Frame:1).
+[2019.12.16-20.50.10:412][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 124
+[2019.12.16-20.50.10:456][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.12.16-20.50.10:456][  0]LogLoad: (Engine Initialization) Total time: 41.32 seconds
+[2019.12.16-20.50.10:456][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.16-20.50.10:855][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.16-20.50.11:252][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 114
+[2019.12.16-20.50.11:252][  0]LogSlate: Took 0.032609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.16-20.50.12:388][  3]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 104
+[2019.12.16-20.50.16:941][193]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 94
+[2019.12.16-20.50.17:172][194]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.16-20.50.18:251][243]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2019.12.16-20.50.20:071][321]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2019.12.16-20.50.23:709][492]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2019.12.16-20.50.25:145][563]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2019.12.16-20.50.27:407][664]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2019.12.16-20.50.29:599][767]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2019.12.16-20.50.31:443][852]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2019.12.16-20.50.31:480][853]LogAssetRegistry: Asset discovery search completed in 58.3994 seconds
+[2019.12.16-20.50.31:495][853]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.004603 seconds (found 0 objects)
+[2019.12.16-20.50.31:495][853]LogCollectionManager: Fixed up redirectors for 0 collections in 0.005095 seconds (updated 0 objects)
+[2019.12.16-20.50.34:017][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.12.16-20.50.35:514][ 57]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2019.12.16-20.50.35:997][ 82]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.12.16-20.50.36:574][108]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.12.16-20.50.38:700][221]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.12.16-20.50.39:288][253]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.12.16-20.50.39:336][255]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.12.16-20.51.03:180][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-20.51.03:263][647]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.16-20.51.03:326][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.51.03:351][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.16-20.51.03:393][647]PIE: New page: PIE session: Pruebas (Dec 16, 2019, 10:51:03 PM)
+[2019.12.16-20.51.03:401][647]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.16-20.51.03:435][647]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-20.51.03:570][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135544s)
+[2019.12.16-20.51.03:580][647]LogAIModule: Creating AISystem for world Pruebas
+[2019.12.16-20.51.03:594][647]LogPlayLevel: PIE: World Init took: (0.023526s)
+[2019.12.16-20.51.03:607][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Pruebas.Pruebas to /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas (0.172840s)
+[2019.12.16-20.51.03:636][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.12.16-20.51.03:734][647]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-20.51.03:745][647]LogInit: FAudioDevice initialized.
+[2019.12.16-20.51.03:948][647]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.16-20.51.04:072][647]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas up for play (max tick rate 60) at 2019.12.16-21.51.04
+[2019.12.16-20.51.04:220][647]LogWorld: Bringing up level for play took: 0.170427
+[2019.12.16-20.51.04:228][647]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.12.16-20.51.04:331][647]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.16-20.51.04:390][647]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Pruebas 1.326
+[2019.12.16-20.51.04:390][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.51.10:511][991]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={634FBD3F-4E26-EB45-40B2-FCB0E5868B3E}
+[2019.12.16-20.51.10:511][991]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={593516F9-4279-FB72-329F-9C8347C9A282}
+[2019.12.16-20.51.10:511][991]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={4205EF87-42E5-FD9D-2BFF-C5B30CE18843}
+[2019.12.16-20.51.15:452][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.51.15:536][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.51.15:536][284]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-20.51.15:546][284]LogWorld: UWorld::CleanupWorld for Pruebas, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-20.51.15:563][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-20.51.15:564][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.51.15:612][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.51.15:619][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.12.16-20.51.15:649][285]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.16-20.51.17:043][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-20.51.17:143][369]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.16-20.51.17:166][369]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.51.17:166][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.16-20.51.17:166][369]PIE: New page: PIE session: Pruebas (Dec 16, 2019, 10:51:17 PM)
+[2019.12.16-20.51.17:167][369]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-20.51.17:198][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031405s)
+[2019.12.16-20.51.17:199][369]LogAIModule: Creating AISystem for world Pruebas
+[2019.12.16-20.51.17:286][369]LogPlayLevel: PIE: World Init took: (0.087699s)
+[2019.12.16-20.51.17:286][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Pruebas.Pruebas to /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas (0.119402s)
+[2019.12.16-20.51.17:311][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.16-20.51.17:325][369]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-20.51.17:337][369]LogInit: FAudioDevice initialized.
+[2019.12.16-20.51.17:348][369]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.16-20.51.17:358][369]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas up for play (max tick rate 60) at 2019.12.16-21.51.17
+[2019.12.16-20.51.17:359][369]LogWorld: Bringing up level for play took: 0.009359
+[2019.12.16-20.51.17:359][369]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.12.16-20.51.17:363][369]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Pruebas 0.299
+[2019.12.16-20.51.17:363][369]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.51.22:164][651]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.51.22:165][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.51.22:165][651]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-20.51.22:165][651]LogWorld: UWorld::CleanupWorld for Pruebas, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-20.51.22:176][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-20.51.22:177][651]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.51.22:205][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.51.22:211][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.12.16-20.51.22:278][652]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.16-20.51.27:982][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-20.52.51:526][183]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.16-20.54.08:271][616]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.16-20.54.08:283][616]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.16-20.54.09:495][665]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.16-20.54.09:516][665]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.54.09:517][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.16-20.54.09:517][665]PIE: New page: PIE session: Pruebas (Dec 16, 2019, 10:54:09 PM)
+[2019.12.16-20.54.09:517][665]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-20.54.09:547][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029919s)
+[2019.12.16-20.54.09:548][665]LogAIModule: Creating AISystem for world Pruebas
+[2019.12.16-20.54.09:548][665]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2019.12.16-20.54.09:549][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Pruebas.Pruebas to /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas (0.031325s)
+[2019.12.16-20.54.09:575][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.12.16-20.54.09:589][665]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-20.54.09:603][665]LogInit: FAudioDevice initialized.
+[2019.12.16-20.54.09:611][665]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.16-20.54.09:621][665]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas up for play (max tick rate 60) at 2019.12.16-21.54.09
+[2019.12.16-20.54.09:622][665]LogWorld: Bringing up level for play took: 0.009106
+[2019.12.16-20.54.09:622][665]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.16-20.54.09:626][665]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Pruebas 0.562
+[2019.12.16-20.54.09:626][665]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.54.20:823][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.54.20:823][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.54.20:823][332]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-20.54.20:824][332]LogWorld: UWorld::CleanupWorld for Pruebas, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-20.54.20:840][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-20.54.20:840][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.54.20:870][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.54.20:876][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.12.16-20.54.20:930][334]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.16-20.54.26:243][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-20.54.40:001][462]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2019.12.16-20.54.42:189][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.16-20.54.43:179][614]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.16-20.54.43:181][614]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.16-20.54.43:187][614]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn
+[2019.12.16-20.54.43:877][614]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2019.12.16-20.54.45:655][614]LogSlate: Took 0.009344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.16-20.54.45:921][615]LogSlate: Took 0.006590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.16-20.55.28:099][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/FlyingPawn" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FlyingBP/Blueprints/FlyingPawn.uasset" SILENT=true
+[2019.12.16-20.55.28:384][220]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FlyingPawn303803FB400F0E2901495B865AF6A92A.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FlyingBP/Blueprints/FlyingPawn.uasset'
+[2019.12.16-20.55.36:999][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-20.55.37:114][571]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.16-20.55.37:139][571]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.55.37:139][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.16-20.55.37:139][571]PIE: New page: PIE session: Pruebas (Dec 16, 2019, 10:55:37 PM)
+[2019.12.16-20.55.37:139][571]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-20.55.37:173][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033001s)
+[2019.12.16-20.55.37:174][571]LogAIModule: Creating AISystem for world Pruebas
+[2019.12.16-20.55.37:174][571]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2019.12.16-20.55.37:174][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Pruebas.Pruebas to /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas (0.034592s)
+[2019.12.16-20.55.37:215][571]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.12.16-20.55.37:271][571]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-20.55.37:282][571]LogInit: FAudioDevice initialized.
+[2019.12.16-20.55.37:294][571]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.16-20.55.37:304][571]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas up for play (max tick rate 60) at 2019.12.16-21.55.37
+[2019.12.16-20.55.37:306][571]LogWorld: Bringing up level for play took: 0.010902
+[2019.12.16-20.55.37:306][571]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.16-20.55.37:309][571]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Pruebas 0.245
+[2019.12.16-20.55.37:309][571]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.55.40:771][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.55.40:772][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.55.40:772][720]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-20.55.40:773][720]LogWorld: UWorld::CleanupWorld for Pruebas, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-20.55.40:806][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-20.55.40:806][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.55.40:843][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.55.40:851][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.12.16-20.55.41:058][721]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.16-20.55.43:030][800]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.16-20.55.51:561][152]LogSlate: Window 'FlyingPawn' being destroyed
+[2019.12.16-20.55.51:912][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-20.55.59:322][607]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.16-20.56.43:545][ 91]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas
+[2019.12.16-20.57.35:881][147]BlueprintLog: New page: Compile Pruebas
+[2019.12.16-20.57.36:384][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.16-20.57.36:842][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Levels/Pruebas" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Pruebas.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.16-20.57.36:891][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.12.16-20.57.37:329][171]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Pruebas8EEC74404972CFEA5A9F4CAE04897933.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Pruebas.umap'
+[2019.12.16-20.57.37:373][171]LogFileHelpers: Saving map 'Pruebas' took 0.538
+[2019.12.16-20.57.37:849][198]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.16-20.57.37:870][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.57.37:870][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.16-20.57.37:870][198]PIE: New page: PIE session: Pruebas (Dec 16, 2019, 10:57:37 PM)
+[2019.12.16-20.57.37:870][198]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-20.57.37:899][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028650s)
+[2019.12.16-20.57.37:901][198]LogAIModule: Creating AISystem for world Pruebas
+[2019.12.16-20.57.37:901][198]LogPlayLevel: PIE: World Init took: (0.001737s)
+[2019.12.16-20.57.37:901][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Pruebas.Pruebas to /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas (0.030804s)
+[2019.12.16-20.57.37:938][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.12.16-20.57.37:954][198]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-20.57.37:965][198]LogInit: FAudioDevice initialized.
+[2019.12.16-20.57.37:996][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.57.37:996][198]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.16-20.57.38:007][198]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas up for play (max tick rate 60) at 2019.12.16-21.57.38
+[2019.12.16-20.57.38:009][198]LogWorld: Bringing up level for play took: 0.011355
+[2019.12.16-20.57.38:009][198]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.16-20.57.38:013][198]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.16-20.57.38:016][198]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Pruebas 0.953
+[2019.12.16-20.57.38:017][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.57.38:097][199]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.12.16-20.57.51:902][ 20]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.57.51:903][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-20.57.51:903][ 20]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-20.57.51:929][ 20]LogSlate: Window 'JuegoX Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.16-20.57.51:937][ 20]LogWorld: UWorld::CleanupWorld for Pruebas, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-20.57.52:011][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-20.57.52:011][ 20]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-20.57.52:071][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.12.16-20.57.52:105][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.16-20.59.10:866][300]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={ABB94072-4B71-6FE3-196D-9F8216F8039F}
+[2019.12.16-21.04.06:634][494]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.16-21.04.07:049][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.16-21.04.09:269][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.16-21.04.09:521][610]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacterDA4843354EF5153E1F121FB248CBE7A8.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.16-21.04.10:723][681]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.16-21.04.10:746][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-21.04.10:746][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.16-21.04.10:746][681]PIE: New page: PIE session: Pruebas (Dec 16, 2019, 11:04:10 PM)
+[2019.12.16-21.04.10:746][681]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-21.04.10:785][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038216s)
+[2019.12.16-21.04.10:786][681]LogAIModule: Creating AISystem for world Pruebas
+[2019.12.16-21.04.10:786][681]LogPlayLevel: PIE: World Init took: (0.001630s)
+[2019.12.16-21.04.10:787][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Pruebas.Pruebas to /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas (0.040159s)
+[2019.12.16-21.04.10:830][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.16-21.04.10:846][681]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-21.04.10:859][681]LogInit: FAudioDevice initialized.
+[2019.12.16-21.04.10:879][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-21.04.10:879][681]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.16-21.04.10:894][681]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas up for play (max tick rate 60) at 2019.12.16-22.04.10
+[2019.12.16-21.04.10:895][681]LogWorld: Bringing up level for play took: 0.014554
+[2019.12.16-21.04.10:895][681]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.12.16-21.04.10:897][681]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.16-21.04.10:904][681]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Pruebas -0.16
+[2019.12.16-21.04.10:904][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-21.04.19:404][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-21.04.19:405][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-21.04.19:407][161]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-21.04.19:428][161]LogSlate: Window 'JuegoX Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.16-21.04.19:437][161]LogWorld: UWorld::CleanupWorld for Pruebas, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-21.04.19:495][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-21.04.19:495][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-21.04.19:560][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.16-21.04.19:669][162]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.12.16-21.04.55:107][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.12.16-21.04.55:461][283]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/FirstPersonCharacter29DD76814D15BA74EDDDE8967D4D66D8.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.16-21.06.11:354][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Levels/Pruebas" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Pruebas.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.16-21.06.11:394][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.16-21.06.11:994][376]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/PruebasCF0085994AC6E2E157DD4591B45707C0.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Pruebas.umap'
+[2019.12.16-21.06.12:041][376]LogFileHelpers: Saving map 'Pruebas' took 0.688
+[2019.12.16-21.06.20:221][836]LogEditorViewport: Clicking on Actor (LMB): Objetos_Decorativos_C (Objetos_Decorativos5)
+[2019.12.16-21.06.23:575][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-21.06.37:126][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-21.06.44:579][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-21.06.50:848][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-21.06.58:595][ 72]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.16-21.06.58:616][ 72]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-21.06.58:616][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.16-21.06.58:617][ 72]PIE: New page: PIE session: Pruebas (Dec 16, 2019, 11:06:58 PM)
+[2019.12.16-21.06.58:617][ 72]LogPlayLevel: Creating play world package: /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-21.06.58:647][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029714s)
+[2019.12.16-21.06.58:648][ 72]LogAIModule: Creating AISystem for world Pruebas
+[2019.12.16-21.06.58:649][ 72]LogPlayLevel: PIE: World Init took: (0.001815s)
+[2019.12.16-21.06.58:649][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoX/Levels/Pruebas.Pruebas to /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas (0.031767s)
+[2019.12.16-21.06.58:692][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.12.16-21.06.58:707][ 72]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.16-21.06.58:719][ 72]LogInit: FAudioDevice initialized.
+[2019.12.16-21.06.58:753][ 72]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.16-21.06.58:763][ 72]LogWorld: Bringing World /Game/JuegoX/Levels/UEDPIE_0_Pruebas.Pruebas up for play (max tick rate 60) at 2019.12.16-22.06.58
+[2019.12.16-21.06.58:764][ 72]LogWorld: Bringing up level for play took: 0.008986
+[2019.12.16-21.06.58:764][ 72]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.12.16-21.06.58:767][ 72]PIE: Play in editor start time for /Game/JuegoX/Levels/UEDPIE_0_Pruebas -0.296
+[2019.12.16-21.06.58:767][ 72]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-21.07.08:100][612]LogBlueprintUserMessages: [Objetos_Decorativos5] Hello
+[2019.12.16-21.07.10:154][729]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-21.07.10:154][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-21.07.10:154][729]LogWorld: BeginTearingDown for /Game/JuegoX/Levels/UEDPIE_0_Pruebas
+[2019.12.16-21.07.10:155][729]LogWorld: UWorld::CleanupWorld for Pruebas, bSessionEnded=true, bCleanupResources=true
+[2019.12.16-21.07.10:197][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.16-21.07.10:198][729]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel' has LevelScriptBlueprint '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas' with GeneratedClass '/Game/JuegoX/Levels/Pruebas.Pruebas_C' with ClassGeneratedBy '/Game/JuegoX/Levels/Pruebas.Pruebas:PersistentLevel.Pruebas'
+[2019.12.16-21.07.10:237][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.16-21.07.10:243][729]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.12.16-21.07.10:269][730]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.12.16-21.07.11:604][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-21.07.11:812][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Levels/Pruebas" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Pruebas.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.16-21.07.11:855][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.12.16-21.07.12:282][808]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Pruebas46ED234F4A2F529BFB2281B55C2D8419.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Pruebas.umap'
+[2019.12.16-21.07.12:324][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoX/Levels/Pruebas_BuiltData" FILE="../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Pruebas_BuiltData.uasset" SILENT=true
+[2019.12.16-21.07.12:994][808]LogSavePackage: Moving '../../../../../TFG/JuegoX_Fork/JuegoX/Saved/Pruebas_BuiltData2E9B52064DB78F6ED2A31DA932972E86.tmp' to '../../../../../TFG/JuegoX_Fork/JuegoX/Content/JuegoX/Levels/Pruebas_BuiltData.uasset'
+[2019.12.16-21.07.22:938][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.16-21.07.38:828][257]LogEditorViewport: Clicking on Actor (LMB): Objetos_Decorativos_C (Objetos_Decorativos5)
+[2019.12.16-21.07.40:656][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.16-21.07.41:555][404]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.16-21.07.41:561][404]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/JuegoX/Blueprints/Objects/Objetos_Decorativos.Objetos_Decorativos
+[2019.12.16-21.08.49:905][374]LogUObjectBase: Warning: Object is not registered
+[2019.12.16-21.08.50:259][374]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.16-21.08.56:538][374]LogStats: FPlatformStackWalk::StackWalkAndDump -  6.261 s
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: 
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: Stack: 
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8a8525279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8a7d47fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8a7d5622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8a6926c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8971c4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff89717e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8ab88d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8aba7c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8ab8d922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8ab8b5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8ab8a9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8e1274c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8e12626df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8e1277340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8e125edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8fe19c906 USER32.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8fe19c422 USER32.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8e12788e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff77c6d6980 UE4Editor.exe!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff77c6ea91c UE4Editor.exe!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff77c6ea9fa UE4Editor.exe!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff77c6fb92c UE4Editor.exe!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff77c6fe60e UE4Editor.exe!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8fe077974 KERNEL32.DLL!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: [Callstack] 0x00007ff8ffd7a271 ntdll.dll!UnknownFunction []
+[2019.12.16-21.08.56:538][374]LogOutputDevice: Error: 
+[2019.12.16-21.08.56:582][374]LogStats:                SubmitErrorReport -  0.000 s
+[2019.12.16-21.09.03:572][374]LogStats:                    SendNewReport -  6.991 s
+[2019.12.16-21.09.03:572][374]LogStats:             FDebug::EnsureFailed - 13.322 s
+[2019.12.16-21.09.03:573][374]LogUObjectBase: Warning: Object is not registered
+[2019.12.16-21.09.04:217][377]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.16-21.09.04:720][378]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.16-21.09.05:222][379]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.12.16-21.09.07:722][379]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.16-21.09.08:223][380]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.12.16-21.09.10:725][380]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.16-21.09.11:226][381]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.12.16-21.09.16:225][381]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2019.12.16-21.09.21:226][381]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s)
+[2019.12.16-21.09.26:226][381]LogD3D11RHI: GetQueryData is taking a very long time (15.0 s)
+[2019.12.16-21.09.31:226][381]LogD3D11RHI: GetQueryData is taking a very long time (20.0 s)
+[2019.12.16-21.09.36:226][381]LogD3D11RHI: GetQueryData is taking a very long time (25.0 s)
