@@ -1,0 +1,82 @@
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Private\FMODFileCallbacks.h
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.h
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMODUtils.h
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Engine.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/World.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\CollisionQueryParams.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\WorldCollision.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\CollisionShape.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\InputCore\Classes\InputCoreTypes.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\InputCore\InputCoreTypes.generated.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/ChildActorComponent.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ChildActorComponent.generated.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc\Change.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Level.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/MaterialMerging.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialMerging.generated.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Level.generated.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Actor.generated.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAgentInterface.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationTypes.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NavigationTypes.generated.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NavAgentInterface.generated.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Pawn.generated.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\EngineDefines.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Blueprint.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintCore.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\BlueprintCore.generated.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Blueprint/BlueprintSupport.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Blueprint.generated.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/PendingNetGame.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine\NetworkDelegates.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PendingNetGame.generated.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/LatentActionManager.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\LatentActionManager.generated.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/GameInstance.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/GameInstanceSubsystem.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/Subsystem.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Subsystem.generated.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameInstanceSubsystem.generated.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/SubsystemCollection.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GCObject.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameInstance.generated.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Physics/PhysicsInterfaceDeclares.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceDeclaresCore.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Particles/WorldPSCPool.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\WorldPSCPool.generated.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\World.generated.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/BufferedOutputDevice.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/EngineSubsystem.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\EngineSubsystem.generated.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Engine.generated.h
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h

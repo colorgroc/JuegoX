@@ -10,10 +10,9 @@ void *FMODPlatformLoadDll(const TCHAR *LibToLoad)
 
 FMOD_RESULT FMODPlatformSystemSetup()
 {
-    FMOD_SWITCH_THREADAFFINITY Affinity = { 0 };
-    Affinity.mixer = FMOD_THREAD_CORE1;
-    Affinity.studioUpdate = FMOD_THREAD_CORE0;
-    Affinity.studioLoadBank = FMOD_THREAD_CORE0;
-    Affinity.studioLoadSample = FMOD_THREAD_CORE0;
-    return FMOD_Switch_SetThreadAffinity(&Affinity);
+    verifyfmod(FMOD::Thread_SetAttributes(FMOD_THREAD_TYPE_MIXER, FMOD_THREAD_AFFINITY_CORE_1));
+    verifyfmod(FMOD::Thread_SetAttributes(FMOD_THREAD_TYPE_STUDIO_UPDATE, FMOD_THREAD_AFFINITY_CORE_0));
+    verifyfmod(FMOD::Thread_SetAttributes(FMOD_THREAD_TYPE_STUDIO_LOAD_BANK, FMOD_THREAD_AFFINITY_CORE_0));
+    verifyfmod(FMOD::Thread_SetAttributes(FMOD_THREAD_TYPE_STUDIO_LOAD_SAMPLE, FMOD_THREAD_AFFINITY_CORE_0));
+    return FMOD_OK;
 }
