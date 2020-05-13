@@ -1,6 +1,43 @@
 {
 	"Contents": [
 		{
+			"File": "../../../JuegoX/Plugins/FMODStudio/FMODStudio.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 20100,
+				"VersionName": "2.01.00",
+				"FriendlyName": "FMOD Studio Integration",
+				"Description": "FMOD Studio Integration.",
+				"Category": "Audio",
+				"CreatedBy": "Firelight Technologies",
+				"CreatedByURL": "http://fmod.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"Installed": true,
+				"Modules": [
+					{
+						"Name": "FMODStudio",
+						"Type": "CookedOnly",
+						"LoadingPhase": "PreLoadingScreen"
+					},
+					{
+						"Name": "FMODStudio",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "FMODStudioEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin",
 			"Descriptor": 
 			{
@@ -1032,43 +1069,6 @@
 							"Win32",
 							"Linux"
 						]
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Netcode Unit Test - Unreal Engine 4",
-				"Description": "Exploit unit tests for UE4 and some base UE4 games, based on the Netcode Unit Test framework",
-				"Category": "Networking",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "NUTUnrealEngine4",
-						"Type": "Developer",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32",
-							"Linux"
-						]
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "NetcodeUnitTest",
-						"Enabled": true
 					}
 				]
 			}

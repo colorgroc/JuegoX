@@ -1,0 +1,4 @@
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\FMODStudio.Build.cs
+E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudioEditor\FMODStudioEditor.Build.cs
+E:\Fork\JuegoX\JuegoX\Intermediate\Source\JuegoX.Build.cs
+E:\Fork\JuegoX\JuegoX\Intermediate\Source\JuegoX.Target.cs
