@@ -367,6 +367,6 @@ private:
 
     // Direct assignment of programmer sound from other C++ code.
     FMOD::Sound *ProgrammerSound;
-
+    bool NeedDestroyProgrammerSoundCallback;
     int32 EventLength;
 };

@@ -367,7 +367,7 @@ void FFMODStudioEditorModule::AddHelpMenuExtension(FMenuBuilder &MenuBuilder)
 {
     MenuBuilder.BeginSection("FMODHelp", LOCTEXT("FMODHelpLabel", "FMOD Help"));
     MenuBuilder.AddMenuEntry(LOCTEXT("FMODVersionMenuEntryTitle", "About FMOD Studio"),
-        LOCTEXT("FMODVersionMenuEntryToolTip", "Shows the informationa about FMOD Studio."), FSlateIcon(),
+        LOCTEXT("FMODVersionMenuEntryToolTip", "Shows FMOD Studio version information."), FSlateIcon(),
         FUIAction(FExecuteAction::CreateRaw(this, &FFMODStudioEditorModule::ShowVersion)));
 
 #if PLATFORM_WINDOWS
@@ -424,11 +424,20 @@ FString VersionToString(unsigned int Version)
     unsigned int ProductVersion = (Version & 0xffff0000) >> 16;
     unsigned int MajorVersion = (Version & 0x0000ff00) >> 8;
     unsigned int MinorVersion = (Version & 0x000000ff);
-    return FString::Printf(TEXT("%d.%02d.%02d"), ProductVersion, MajorVersion, MinorVersion);
+    return FString::Printf(TEXT("%x.%02x.%02x"), ProductVersion, MajorVersion, MinorVersion);
 }
 
 unsigned int MakeVersion(unsigned int ProductVersion, unsigned int MajorVersion, unsigned int MinorVersion)
 {
+    auto EncodeAsHex = [](unsigned int Value) -> unsigned int
+    {
+        return 16 * (Value / 10) + Value % 10;
+    };
+
+    ProductVersion = EncodeAsHex(ProductVersion);
+    MajorVersion = EncodeAsHex(MajorVersion);
+    MinorVersion = EncodeAsHex(MinorVersion);
+
     return ((ProductVersion & 0xffff) << 16) | ((MajorVersion & 0xff) << 8) | (MinorVersion & 0xff);
 }
 

@@ -1,6 +1,0 @@
-E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
-E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Inc\FMODStudio\FMODAsset.generated.h
-E:\Fork\JuegoX\JuegoX\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
-E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
-E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
-E:\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
